@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幕開け",
+  "base_artist": "ShowyVICTOR",
+  "createdAt": "2026-04-01T11:27:23.742568Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幕開け (feat. Bonbero, ShowyRENZO & Tade Dust)",
+      "artist": "ShowyVICTOR",
+      "has_synced": false,
+      "path": "select/pl_01_幕開け_(feat._Bonbero,_ShowyRENZO_&_Tade_Dust)_ShowyVICTOR.txt"
+    }
+  ]
+}
